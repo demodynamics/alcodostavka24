@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+Host: glmarket24.online
+Sitemap: https://glmarket24.online/sitemap.xml

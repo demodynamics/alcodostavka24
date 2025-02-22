@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /category
+
+Sitemap: https://24alcodostavka-molnia.ru/sitemap.xml
